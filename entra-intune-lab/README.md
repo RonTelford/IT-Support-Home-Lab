@@ -1,10 +1,8 @@
 # Entra ID + Intune Lab
 
-Cloud identity and device management lab, built alongside the
-Microsoft Intune + Microsoft Entra ID Complete Master Course 2026
-(Labs Hands On) — following the early course sections first:
-Entra fundamentals, device enrollment, and MDM connection, before
-any Conditional Access or compliance work.
+Cloud identity and device management lab — Entra fundamentals,
+device enrollment, and MDM connection, before any Conditional
+Access or compliance work.
 
 **Environment**
 - Microsoft 365 Business Premium trial tenant (started October 24, 2026)
@@ -37,7 +35,7 @@ any Conditional Access or compliance work.
 
 **What is NOT claimed here yet**
 Conditional Access policies, compliance policies, configuration
-profiles, and app deployment are next steps in the course and are
+profiles, and app deployment are next steps and are
 not claimed as completed until they are actually built and verified
 in the tenant. The trial tenant is a lab tenant only, not a
 production environment.
@@ -63,5 +61,4 @@ or admin credentials are included anywhere in this folder.
   enforce-first), excluding the admin account
 - Intune compliance policy and configuration profile for the test
   device
-- Win32 app deployment in a phased rollout, as covered later in
-  the course
+- Win32 app deployment in a phased rollout
