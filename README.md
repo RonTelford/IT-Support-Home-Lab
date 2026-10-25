@@ -12,13 +12,17 @@ Career-changer into IT support. 15 years in manufacturing and fabrication (weldi
 A real, multi-machine Windows domain built from scratch in VMware Workstation and VirtualBox: two Windows Server 2025 domain controllers, domain-joined Windows 11 clients, OU design, AD sites, Group Policy, and DNS — including a full replication-failure diagnosis I troubleshot and fixed myself.
 → [Full write-up + 11 screenshots](active-directory-lab/)
 
+### ☁️ [Entra ID + Intune Lab](entra-intune-lab/)
+A Microsoft 365 Business Premium trial tenant with a Windows 11 Pro test VM: test user creation, Entra Join via work/school setup, and verified MDM enrollment — confirmed with `whoami`, `dsregcmd /status`, and Settings > Access work or school. Windows Hello PIN was not set up. Conditional Access, compliance, and app deployment are next steps, not yet claimed.
+→ [Full write-up + 3 redacted screenshots](entra-intune-lab/)
+
 ### 🎫 [Service Desk Simulator — 30 Tickets Resolved](service-desk-simulator/)
 30 simulated support tickets across account/access, network, hardware, printers, and mobile — practicing the full ticket lifecycle: intake, troubleshooting, documentation, resolution, and escalation.
 → [Breakdown by category](service-desk-simulator/)
 
 ## Technical Skills
 
-Active Directory · Group Policy · DNS · TCP/IP & static IP configuration · Windows 10/11 · Windows Server · VMware Workstation · VirtualBox · User account management · Ticketing workflow · Hardware troubleshooting
+Active Directory · Group Policy · DNS · TCP/IP & static IP configuration · Windows 10/11 · Windows Server · VMware Workstation · VirtualBox · User account management · Ticketing workflow · Hardware troubleshooting · Microsoft Entra ID (device join, in progress) · Microsoft Intune (device enrollment verified)
 
 ---
 
